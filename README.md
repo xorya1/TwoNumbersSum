@@ -1,4 +1,4 @@
-# Number Summation Application
+# Number Summation Application in Java
 
 ## Overview
 This Java application consists of two components: a **Server** and a **Client**. The Server listens for incoming connections on a specified port and processes requests from the Client. The Client sends two numbers to the Server, which then computes and returns their sum.
